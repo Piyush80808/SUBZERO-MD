@@ -57,4 +57,4 @@
 </div>
 <center>
   
-> `POWERED BY MR FRANK OFC 🇿🇼` </center>
+> `POWERED BY MR Piyush ` </center>
