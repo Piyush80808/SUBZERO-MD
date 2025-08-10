@@ -1,7 +1,7 @@
 {
-  "name": "SUBZERO-MD",
-  "description": "Whiskey Sockets Baileys Whatsapp bot By Mr Frank",
-  "logo": "https://i.postimg.cc/zv76KffW/IMG-20250115-WA0020.jpg",
+  "name": "ai_chat_bot",
+  "description": "Whiskey Sockets Baileys Whatsapp bot By Piyush Sarkar",
+  "logo": "https://i.ibb.co/p6dMKS4D/ai-chat-with-Piyush-whataspp-ai-make-a-good-looking-logo.jpg",
   "keywords": ["SUBZERO-MD"],
   "success_url": "/",
   "stack": "heroku-24",
