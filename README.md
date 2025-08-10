@@ -1,18 +1,16 @@
 <!-- DO NOT CLONE MY PROPERTY LIKE LAST TIME - MR FRANK OFC-->
 
-<h1 align="center"> 𝐒𝐔𝐁𝐙𝐄𝐑𝐎 𝐌𝐃 </h1>
+<h1 align="center"> Ai chat bot  </h1>
 
 <p align="center">
-  <a href="https://github.com/mrfrankofcc/SUBZERO-MD">
-    <img alt="SUBZERO-MD docs" height="350" src="https://files.catbox.moe/rzw7ng.jpg">
+  <a href="[https://github.com/mrfrankofcc/SUBZERO-MD](https://github.com/Piyush80808)">
+    <img alt="SUBZERO-MD docs" height="350" src="https://i.ibb.co/p6dMKS4D/ai-chat-with-Piyush-whataspp-ai-make-a-good-looking-logo.jpg">
   </a>
 </p>
     
 </a>
 </p>
-<p align="center">
-<a href="https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D"><img title="Author" src="https://img.shields.io/badge/SUBZERO-MD-darkgreen?style=for-the-badge&logo=whatsapp"></a>
-<p/>
+
 
 <p align="center">
     <strong>1. FORK REPOSITORY</strong>
